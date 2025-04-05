@@ -1,0 +1,4 @@
+Mean difference: 4.9215
+Max difference: 293.9473
+Standard deviation of difference: 23.1017
+Correlation between original and enhanced: 0.7962
